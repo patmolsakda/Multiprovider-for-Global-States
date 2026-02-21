@@ -42,9 +42,6 @@ flutter pub get
 flutter run
 ```
 
-**Login hint:** Use any username and a password of at least 4 characters.  
-Use `admin` as the username to get the **Admin** role.
-
 ---
 
 ## 🔑 Key Concepts
