@@ -76,3 +76,11 @@ studentProvider.updateStudent(id, name, ...);          // Update
 studentProvider.deleteStudent(id);                     // Delete
 studentProvider.searchStudents(query);                 // Search
 ```
+## 📄 License
+
+This project is free to use for learning and development purposes.
+
+---
+
+⭐ Developed using Flutter by **Pat Molsakda**
+If you like this project, feel free to give it a star on GitHub! 
